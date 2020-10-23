@@ -3,39 +3,23 @@ The use of Citi Bike data to create a pitch for a bike sharing app in Des Moines
 
 ## Des Moines vs. New York
 
-####What is the density of McDonald's in New York City versus Des Moines? 
+### What is the density of McDonald's in New York City versus Des Moines?
+### Does this affect where people go in the city? If so, how?
 
 
+![](Locations%20of%20Mcdonalds.png)
 
 
+![](Total%20Mcdonalds%20Des%20Moines.png)
+![](Total%20Mcdonalds%20New%20York.png)
+
+The Mcdonalds are relatively spread out and they have the same amount of locations in both cities. Mcdonalds are a major fantrise in the United States thus they show up at populer locations. This is great because we can use this to predict where people will go. 
+
+![](Top%20Starting%20Locations%20in%20New%20york.png)
+
+You can see that thhe Top starting locations map well with the Mcdonalds locations. NYC data shows that if bike start is at popular location then people are tend to use more bikes. Des Moines also has many popular tourist destination and having bike stop (pickup/return) will increase the chances of number poeple riding the bike. https://www.catchdesmoines.com/things-to-do/ there are many populat tourist destnations example Greater Des Moines Botanical Garden, Blank Park Zoo, Outdoor Trails ect.
 
 
-###Does this affect where people go in the city? If so, how?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Popular location
-NYC data shows that if bike stop (pickup/return) is at popular location then people are tend to use more bikes. Des Moines also has many popular tourist destination and having bike stop (pickup/return) will increase the chances of number poeple riding the bike. https://www.catchdesmoines.com/things-to-do/ there are many populat tourist destnations example Greater Des Moines Botanical Garden, Blank Park Zoo, Outdoor Trails ect.
-
-
-
-Peak Hours
-NYC data shows that around 5-7pm are peak bike riding hours. If more bikes combine with popular location during this peak hours will help people to prefer bike to save commute time.
-
-peak_hours
 
 
 
@@ -49,7 +33,10 @@ Des Moines Tableau
 
 
 
-cites 
+**cites**
+
 https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa/PST045219
+
 https://www.catchdesmoines.com/visitor-info/weather/
+
 The mcdonalds csv
