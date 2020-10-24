@@ -25,7 +25,8 @@ You can see that thhe Top starting locations map well with the Mcdonalds locatio
 
 Story Links
 NYC Tableau Story
-[link to dashboard](https://public.tableau.com/profile/yanet.mora.perez#!/vizhome/OriginalNewYorkdata/TopStartingLocations?publish=yes)
+[link to dashboard](https://public.tableau.com/profile/yanet.mora.perez#!/vizhome/OriginalNewYorkdata/NYCCitiBike?publish=yes)
+[link to dashboard](https://public.tableau.com/profile/yanet.mora.perez#!/vizhome/OriginalNewYorkdata/Dashboard2?publish=yes)
 
 Des Moines Tableau
 [link to dashboard](https://public.tableau.com/profile/yanet.mora.perez#!/vizhome/DesMoniesvsNewYork/Dashboard1?publish=yes)
